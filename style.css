@@ -1,0 +1,20 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Agbalumo&family=Bungee+Shade&display=swap');
+  @import url('css/components/avatar.css');
+  @import url('css/components/banner.css');
+  @import url('css/components/button.css');
+  @import url('css/components/card.css');
+
+
+  body {
+    background-color: white;
+  }
+
+p {
+  font-size: 30px;
+  font-family: "Sometype Mono";
+  background-color: #FFEECC;
+  padding: 30px 20px;
+  margin-top: 0px;
+  border-radius: 20%;
+}

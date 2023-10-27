@@ -1,0 +1,27 @@
+h1 {
+    font-family: 'Bungee Shade', sans-serif;
+    color: #FFDDCC;
+    text-align: center;
+    padding-top: 10px;
+    font-size: 75px;
+  }
+
+  h2 {
+    font-family: "Agbalumo";
+    font-size: 50px;
+    color: #FFEECC;
+  }
+
+  .banner {
+    background-image: url("../../image/banner.jpg");
+    background-size: cover;
+    background-position: center;
+    padding: 40px 10px;
+  }
+
+  .container {
+    width: 950px 250px;
+  }
+
+  
+
